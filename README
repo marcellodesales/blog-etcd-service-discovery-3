@@ -1,1 +1,10 @@
 This is the source code for my blog post on service discovery with etcd.
+
+* Service Discovery
+
+- See register2: application registering
+- See robust_discovery: application discovery
+
+* Queue Processor
+
+- See queueProcessor: asynchronous queue processor in Node.js using node-etcd.
